@@ -1,0 +1,1 @@
+{"text": "$exch momentum breakout signal\n\nexchange: ftx\nsymbol: exch-perp\ntimeframe: 30m\nsignal: momentum breakout\n\ndate: 01/20/2020, 5:00 pm\n\nsign up: URL\n\nindicator: gainzy momentum channels\n\nmessage AT_USER for access URL"}

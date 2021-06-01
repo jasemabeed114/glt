@@ -1,0 +1,1 @@
+{"text": "find this line:\n\n$cmdoutput = androidadbsendshellcommand(\"set export=$(am start \" &amp; $srestart &amp; \"-n \" &amp; $g_sandroidgamepackage\n\nand replace the whole line with this:\n\n$cmdoutput =... URL"}
