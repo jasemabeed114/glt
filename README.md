@@ -30,7 +30,7 @@ and CIKM21 is a new dataset that we collect and publicly release.
 Table 1:  Summary of datasets.
 
 | Dataset | # Stocks | # Tweets | Period |
-|------| ---:|-----------:|:------|
+|------| ---:|-----------:|-------|
 | CIKM21 | 50 | 272,762  | 07/2019 - 07/2020 |
 | ACL18  | 87 | 106,271  | 01/2014 - 12/2015 |
 | CIKM18 | 38 | 955,788  | 01/2017 - 12/2017 |
