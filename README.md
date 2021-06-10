@@ -26,6 +26,8 @@ and [CIKM18](https://dl.acm.org/doi/pdf/10.1145/3269206.3269290) in Table 1.
 All datasets consist of high-trade-volume stocks in US stock markets,
 and CIKM21 is a new dataset that we collect and publicly release.
 
+<center>
+
 Table 1:  Summary of datasets.
 
 | Dataset | # Stocks | # Tweets | Train | Valid | Test |
@@ -34,3 +36,4 @@ Table 1:  Summary of datasets.
 | ACL18  | 87 | 106,271  | 01/2014 - | 08/2015 - | 10/2015 - 12/2015 |
 | CIKM18 | 38 | 955,788  | 01/2017 - | 09/2017 - | 11/2017 - 12/2017 |
 
+</center>
